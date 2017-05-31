@@ -13,7 +13,7 @@ import com.tek.service.PongService;
  */
 @RestController
 public class PongController {
-	@
+	
 	
 	@Autowired
 	PongService pongService;
