@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.tek.service.PongService;
 
+
+/*
+ * PingPong Controller
+ */
 @RestController
 public class PongController {
 	
