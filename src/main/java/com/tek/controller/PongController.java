@@ -9,7 +9,7 @@ import com.tek.service.PongService;
 
 
 /*
- * PingPong Controller
+ * PingPong Controller//Comment for Jenkins
  */
 @RestController
 public class PongController {
