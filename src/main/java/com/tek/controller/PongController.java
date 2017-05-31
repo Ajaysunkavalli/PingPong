@@ -13,10 +13,7 @@ import com.tek.service.PongService;
  */
 @RestController
 public class PongController {
-	/*
-	 * Creating Error for Jenkins
-	 */
-	String;
+	
 	
 	@Autowired
 	PongService pongService;
